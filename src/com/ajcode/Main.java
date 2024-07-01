@@ -6,7 +6,7 @@ package com.ajcode;
 - Return type - void
 - Name -
 - Optional parameters - ARRAY - (String[] args)
-- Method body - What goes between the opening curley brackets
+- Method body - What goes between the opening curly braces
 Optional return value - for the code below, it is void because it does not return any value
  */
 
