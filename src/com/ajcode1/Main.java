@@ -1,4 +1,4 @@
-package com.ajcode;
+package com.ajcode1;
 
 /*
 - Access modifier - Public, private, protected or default
