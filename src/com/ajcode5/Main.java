@@ -2,7 +2,7 @@ package com.ajcode5;
 
 import java.util.Scanner;
 
-// Finding hypotenuse using the math class
+// Finding hypotenuse of a triangle using the math class
 public class Main {
     public static void main(String[] args){
         double x;
