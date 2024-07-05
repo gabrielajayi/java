@@ -1,6 +1,6 @@
 package com.ajcode6;
 
-// Generating a random numbers on java
+// Generating random numbers on java
 import java.util.Random;
 
 public class Main {
