@@ -2,6 +2,7 @@
 
 
 ## Project 1: To-Do List Application
+- [x] (Completed)
 
 ### Description
 A simple to-do list application where users can add, edit, and delete tasks. This project helps in understanding basic CRUD operations and user interface design in Java.
