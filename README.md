@@ -12,6 +12,17 @@ A simple to-do list application where users can add, edit, and delete tasks. Thi
 - Edit existing tasks
 - Delete tasks
 - Mark tasks as completed
+- Inspiration below:
+  
+![image](https://github.com/user-attachments/assets/01498d07-370c-498c-9591-d600b063072d)
+![image](https://github.com/user-attachments/assets/d1ef38b1-b538-4148-a1d5-14610208b93c)
+![image](https://github.com/user-attachments/assets/2cc5f65a-c478-49af-8abb-ba243d0c77d1)
+![image](https://github.com/user-attachments/assets/03e71f28-572c-4dce-a933-af5525105a13)
+![image](https://github.com/user-attachments/assets/c070ebae-294a-4980-8820-3cd0cc091f46)
+![image](https://github.com/user-attachments/assets/41b4eb3b-7e7c-4ba5-bbb1-655ede049982)
+![image](https://github.com/user-attachments/assets/d3eddd97-e6a2-469f-81d5-3ea78956dff2)
+
+
 
 ### Proposed Technologies
 - Java
